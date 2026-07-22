@@ -296,4 +296,10 @@ The projects demonstrate practical Power BI skills including **Power Query, Data
 This repository is created to showcase my practical Power BI skills and Business Intelligence projects. It demonstrates real-world reporting techniques, dashboard development, DAX calculations, and interactive visualizations commonly used in Data Analyst and Business Intelligence roles.
 
 ---
+<img width="771" height="437" alt="Screenshot 2026-07-22 203259" src="https://github.com/user-attachments/assets/255b0ed0-ca59-4a91-9a95-6be8371775a2" />
+<img width="778" height="440" alt="Screenshot 2026-07-22 203146" src="https://github.com/user-attachments/assets/12d13320-8863-43b2-92cf-f29bb3199e4b" />
+<img width="777" height="440" alt="Screenshot 2026-07-22 203208" src="https://github.com/user-attachments/assets/660b9791-3b93-42c7-8cb7-27cc7059aa26" />
+
+
+
 
