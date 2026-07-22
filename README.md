@@ -297,4 +297,3 @@ This repository is created to showcase my practical Power BI skills and Business
 
 ---
 
-## ⭐ If you find this repository useful, feel free to Star it!
